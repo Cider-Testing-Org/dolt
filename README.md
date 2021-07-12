@@ -22,6 +22,8 @@ ask questions!
 
 # Dolt CLI
 
+
+
 ```
 $ dolt
 Valid commands for dolt are
