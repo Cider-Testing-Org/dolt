@@ -24,7 +24,7 @@ ask questions!
 
 
 
-```
+```      
 $ dolt
 Valid commands for dolt are
                 init - Create an empty Dolt data repository.
