@@ -121,3 +121,5 @@ func DeleteAndPrint(prevMsgLen int, msg string) int {
 	Print(string(backspacesAndMsg))
 	return msgLen
 }
+
+
